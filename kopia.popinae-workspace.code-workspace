@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "htmlui",
+			"path": "../htmlui"
+		},
+		{
+			"name": "htmluibuild",
+			"path": "../htmluibuild"
+		}
+	],
+	"settings": {}
+}
